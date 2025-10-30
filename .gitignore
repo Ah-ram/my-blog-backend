@@ -6,6 +6,7 @@ dist/
 wheels/
 *.egg-info
 .idea
+.migrations
 
 # Virtual environments
 .venv
